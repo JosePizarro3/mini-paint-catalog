@@ -1,7 +1,3 @@
-[build-system]
-requires = ["setuptools>=61.0.0", "setuptools-scm>=8.0"]
-build-backend = "setuptools.build_meta"
-
 [project]
 classifiers = [
   "Natural Language :: English",
@@ -28,8 +24,9 @@ dependencies = [
   "click",
   "pydantic~=2.10.5",
   "requests",
-  "beautifulsoup4",
-  "playwright"
+  "playwright",
+  "pillow",
+  "cairosvg",
 ]
 
 [project.urls]
@@ -129,9 +126,10 @@ no_strict_optional = true
 disable_error_code = "import, annotation-unchecked"
 
 [tool.setuptools.packages.find]
-where = ["."]
-exclude = ["dependencies*"]
-namespaces = false
+where = ["src"]
 
 [tool.setuptools_scm]
-write_to = "src/_version.py"
+write_to = "src/minipaintcatalog/_version.py"
+
+[tool.setuptools]
+package-dir = { "" = "src" }
