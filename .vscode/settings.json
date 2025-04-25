@@ -1,5 +1,5 @@
 {
-  "python.defaultInterpreterPath": ".venv/bin/python",
+  "python.defaultInterpreterPath": "\\.venv\\Scripts\\activate",
   "python.terminal.activateEnvInCurrentTerminal": true,
   "editor.rulers": [90],
   "editor.renderWhitespace": "all",

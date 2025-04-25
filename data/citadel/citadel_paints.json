@@ -1,0 +1,4010 @@
+[
+  {
+    "manufacturer": "Citadel",
+    "name": "White Scar",
+    "price": "$24.00",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/60249999620_Spray_White_Scar.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      255,
+      255,
+      255
+    ],
+    "hex_color": "#ffffff"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Nighthaunt Gloom",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960061_NighthauntGloom.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      76,
+      131,
+      138
+    ],
+    "hex_color": "#4c838a"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Hexwraith Flame",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960060_HexwraithFlame.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      0,
+      162,
+      55
+    ],
+    "hex_color": "#00a237"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Magmadroth Flame",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960059_Contrast_Magmadroth_Flame.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      228,
+      87,
+      38
+    ],
+    "hex_color": "#e45726"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Baal Red",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960058_Contrast_Baal_Red.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      202,
+      26,
+      38
+    ],
+    "hex_color": "#ca1a26"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Doomfire Magenta",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960057_Contrast_Doomfire_Magenta.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      200,
+      0,
+      119
+    ],
+    "hex_color": "#c80077"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Dreadful Visage",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960056_Contrast_Dreadful_Visage.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      181,
+      159,
+      181
+    ],
+    "hex_color": "#b59fb5"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Sigvald Burgundy",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960055_Contrast_Sigvald_Burgundy.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      108,
+      0,
+      78
+    ],
+    "hex_color": "#6c004e"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Luxion Purple",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960054_Contrast_Luxion_Purple.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      53,
+      15,
+      95
+    ],
+    "hex_color": "#350f5f"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Leviathan Purple",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960053_Contrast_Leviathan_Purple.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      23,
+      4,
+      77
+    ],
+    "hex_color": "#17044d"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Stormfiend",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960052_Contrast_Stormfiend.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      0,
+      81,
+      124
+    ],
+    "hex_color": "#00517c"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Celestium Blue",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960051_Contrast_Celestium_Blue.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      19,
+      74,
+      134
+    ],
+    "hex_color": "#134a86"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Asurmen Blue",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960050_Contrast_Asurmen_Blue.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      0,
+      90,
+      148
+    ],
+    "hex_color": "#005a94"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Pylar Glacier",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960049_Contrast_Pylar_Glacier.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      57,
+      175,
+      228
+    ],
+    "hex_color": "#39afe4"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Frostheart",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960048_Contrast_Frostheart.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      0,
+      85,
+      123
+    ],
+    "hex_color": "#00557b"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Briar Queen Chill",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960047_Contrast_Briar_Queen_Chill.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      105,
+      168,
+      185
+    ],
+    "hex_color": "#69a8b9"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Kroxigor Scales",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960046_Contrast_Kroxigor_Scales.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      0,
+      121,
+      140
+    ],
+    "hex_color": "#00798c"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Imperial Fist",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960045_Contrast_Imperial_Fist.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      251,
+      173,
+      23
+    ],
+    "hex_color": "#fbad17"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Bad Moon Yellow",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960044_Contrast_Bad_Moon_Yellow.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      253,
+      199,
+      12
+    ],
+    "hex_color": "#fdc70c"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Ironjawz Yellow",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960043_Contrast_Ironjawz_Yellow.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      212,
+      162,
+      53
+    ],
+    "hex_color": "#d4a235"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Striking Scorpion Green",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960042_Contrast_Striking_Scorpion_Green.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      9,
+      127,
+      59
+    ],
+    "hex_color": "#097f3b"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Karandras Green",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960041_Contrast_Karandras_Green.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      0,
+      121,
+      56
+    ],
+    "hex_color": "#007938"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Gutrippa Flesh",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960040_Contrast_Gutrippa_Flesh.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      83,
+      135,
+      86
+    ],
+    "hex_color": "#538756"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Aeldari Emerald",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960039_Contrast_Aeldari_Emerald.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      0,
+      113,
+      102
+    ],
+    "hex_color": "#007166"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Mantis Warriors Green",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960038_Contrast_Mantis_Warriors_Green.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      92,
+      137,
+      60
+    ],
+    "hex_color": "#5c893c"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Ratling Grime",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960037_Contrast_Ratling_Grime.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      101,
+      96,
+      94
+    ],
+    "hex_color": "#65605e"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Black Legion",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960036_Contrast_Black_Legion.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      33,
+      33,
+      34
+    ],
+    "hex_color": "#212122"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Garaghak's Sewer",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960035_Contrast_Garaghak_s_Sewer.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      109,
+      80,
+      39
+    ],
+    "hex_color": "#6d5027"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Fuegan Orange",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189953023_shadeFueganOrange.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      165,
+      92,
+      53
+    ],
+    "hex_color": "#a55c35"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Coelia Greenshade",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189953025_shadeCoeliaGreenshade.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      24,
+      117,
+      110
+    ],
+    "hex_color": "#18756e"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Druchii Violet",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189953019_shadeDruchiiViolet.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      113,
+      75,
+      116
+    ],
+    "hex_color": "#714b74"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Casandora Yellow",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189953021_shadeCasandoraYellow.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      241,
+      183,
+      119
+    ],
+    "hex_color": "#f1b777"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Carroburg Crimson",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189953016_shadeCarroburgCrimson.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      150,
+      94,
+      120
+    ],
+    "hex_color": "#965e78"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Seraphim Sepia",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189953026_shadeSeraphimSepia.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      138,
+      101,
+      66
+    ],
+    "hex_color": "#8a6542"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Drakenhof Nightshade",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189953020_shadeDrakenhofNightshade.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      118,
+      124,
+      133
+    ],
+    "hex_color": "#767c85"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Athonian Camoshade",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189953024_shadeAthonianCamoshade.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      139,
+      139,
+      102
+    ],
+    "hex_color": "#8b8b66"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Biel-Tan Green",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189953022_shadeBielTanGreen.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      95,
+      132,
+      96
+    ],
+    "hex_color": "#5f8460"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Agrax Earthshade",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189953018_shadeAgraxEarthshade.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      134,
+      120,
+      104
+    ],
+    "hex_color": "#867868"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Reikland Fleshshade",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189953027_shadeReiklandFleshshade.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      150,
+      117,
+      94
+    ],
+    "hex_color": "#96755e"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Nuln Oil",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189953017_shadeNulnOil.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      118,
+      115,
+      113
+    ],
+    "hex_color": "#767371"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Soulblight Grey",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189953047_Shade_Soulblight_Grey.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      194,
+      189,
+      189
+    ],
+    "hex_color": "#c2bdbd"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Berserker Bloodshade",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189953046_Shade_Berserker_Bloodshade.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      203,
+      111,
+      137
+    ],
+    "hex_color": "#cb6f89"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Tyran Blue",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189953045_Shade_Tyran_Blue.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      112,
+      175,
+      208
+    ],
+    "hex_color": "#70afd0"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Mortarion Grime",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189953044_Shade_Mortarion_Grime.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      199,
+      191,
+      107
+    ],
+    "hex_color": "#c7bf6b"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Targor Rageshade",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189953043_Shade_Targor_Rageshade.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      160,
+      148,
+      158
+    ],
+    "hex_color": "#a0949e"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Poxwalker",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189953042_Shade_Poxwalker.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      153,
+      185,
+      185
+    ],
+    "hex_color": "#99b9b9"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Kroak Green",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189953041_Shade_Kroak_Green.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      174,
+      204,
+      180
+    ],
+    "hex_color": "#aeccb4"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Thondia Brown",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950207_baseThondiaBrown.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      84,
+      48,
+      42
+    ],
+    "hex_color": "#54302a"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Hobgrot Hide",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950206_baseHobgrotHide.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      161,
+      129,
+      42
+    ],
+    "hex_color": "#a1812a"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Orruk Flesh",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950205_baseOrrukFlesh.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      140,
+      194,
+      118
+    ],
+    "hex_color": "#8cc276"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Zandri Dust",
+    "price": "$24.00",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99209999048_sprayZandriDust.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      152,
+      142,
+      86
+    ],
+    "hex_color": "#988e56"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Retributor Armour",
+    "price": "$35.00",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99209999044_sprayRetributorArmour.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      254,
+      252,
+      249
+    ],
+    "hex_color": "#fefcf9"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Munitorum Varnish",
+    "price": "$24.00",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99209999058_sprayMunitorumVarnish.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      255,
+      255,
+      255
+    ],
+    "hex_color": "#ffffff"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Mephiston Red",
+    "price": "$24.00",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99209999045_sprayMephistonRed.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      150,
+      12,
+      9
+    ],
+    "hex_color": "#960c09"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Mechanicus Standard Grey",
+    "price": "$24.00",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99209999050_sprayMechanicusStandardGrey.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      57,
+      72,
+      74
+    ],
+    "hex_color": "#39484a"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Macragge Blue",
+    "price": "$24.00",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99209999046_sprayMacraggeBlue.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      15,
+      61,
+      124
+    ],
+    "hex_color": "#0f3d7c"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Leadbelcher",
+    "price": "$24.00",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99209999051_sprayLeadbelcher.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      236,
+      236,
+      236
+    ],
+    "hex_color": "#ececec"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Wraithbone",
+    "price": "$24.00",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99209999059_sprayWraithBone.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      219,
+      209,
+      178
+    ],
+    "hex_color": "#dbd1b2"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Grey Seer",
+    "price": "$24.00",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99209999060_sprayGreySeer.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      162,
+      165,
+      167
+    ],
+    "hex_color": "#a2a5a7"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Death Guard Green",
+    "price": "$24.00",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99209999057_sprayDeathGuardGreen.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      85,
+      98,
+      41
+    ],
+    "hex_color": "#556229"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Chaos Black",
+    "price": "$20.00",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99209999042_sprayChaosBlack.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      0,
+      0,
+      0
+    ],
+    "hex_color": "#000000"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Tesseract Glow",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189956053_technicalTesseractGlow.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      73,
+      173,
+      51
+    ],
+    "hex_color": "#49ad33"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Canoptek Alloy",
+    "price": "$6.10",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951205_layerCanoptekAlloy.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      253,
+      251,
+      250
+    ],
+    "hex_color": "#fdfbfa"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Runelord Brass",
+    "price": "$6.10",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950204_layerRunelordBrass.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      240,
+      232,
+      222
+    ],
+    "hex_color": "#f0e8de"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Hoeth Blue",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189952022_dryHoethBlue.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      76,
+      120,
+      175
+    ],
+    "hex_color": "#4c78af"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Wrack White",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189952020_dryWrackWhite.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      211,
+      208,
+      207
+    ],
+    "hex_color": "#d3d0cf"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Underhive Ash",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189952010_dryUnderhiveAsh.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      188,
+      187,
+      126
+    ],
+    "hex_color": "#bcbb7e"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Tyrant Skull",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189952034_dryTyrantSkull.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      200,
+      196,
+      131
+    ],
+    "hex_color": "#c8c483"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Terminatus Stone",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189952030_dryTerminatusStone.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      200,
+      183,
+      157
+    ],
+    "hex_color": "#c8b79d"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Sylvaneth Bark",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189952030_drySylvanethBark.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      78,
+      72,
+      59
+    ],
+    "hex_color": "#4e483b"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Stormfang",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189952025_dryStormfang.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      90,
+      127,
+      163
+    ],
+    "hex_color": "#5a7fa3"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Skink Blue",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189952006_drySkinkBlue.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      84,
+      189,
+      202
+    ],
+    "hex_color": "#54bdca"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Sigmarite",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189952032_drySigmarite.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      244,
+      200,
+      112
+    ],
+    "hex_color": "#f4c870"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Nurgling Green",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189952027_dryNurglingGreen.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      126,
+      151,
+      94
+    ],
+    "hex_color": "#7e975e"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Niblet Green",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189952026_dryNibletGreen.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      55,
+      140,
+      53
+    ],
+    "hex_color": "#378c35"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Necron Compound",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189952013_dryNecronCompound.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      249,
+      249,
+      249
+    ],
+    "hex_color": "#f9f9f9"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Lucius Lilac",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189952003_dryLuciusLilac.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      181,
+      152,
+      201
+    ],
+    "hex_color": "#b598c9"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Golgfag Brown",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189952028_dryGolgfagBrown.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      143,
+      80,
+      42
+    ],
+    "hex_color": "#8f502a"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Golden Griffon",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189952014_dryGoldenGriffon.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      254,
+      252,
+      250
+    ],
+    "hex_color": "#fefcfa"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Etherium Blue",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189952005_dryEtheriumBlue.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      158,
+      181,
+      206
+    ],
+    "hex_color": "#9eb5ce"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Eldar Flesh",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189952009_dryEldarFlesh.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      232,
+      192,
+      127
+    ],
+    "hex_color": "#e8c07f"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Dawnstone",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189952031_dryDawnstone.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      105,
+      112,
+      104
+    ],
+    "hex_color": "#697068"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Blood For The Blood God",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189956005_technicalBloodForTheBloodGod.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      127,
+      50,
+      54
+    ],
+    "hex_color": "#7f3236"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Ardcoat",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189956050_technicalArdcoat.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      255,
+      255,
+      255
+    ],
+    "hex_color": "#ffffff"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Death Guard Green",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950122_baseDeathGuardGreen.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      109,
+      119,
+      77
+    ],
+    "hex_color": "#6d774d"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Balthasar Gold",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950130_baseBalthasarGold.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      251,
+      191,
+      136
+    ],
+    "hex_color": "#fbbf88"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Waystone Green",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189956017_technicalWaystoneGreen.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      50,
+      95,
+      75
+    ],
+    "hex_color": "#325f4b"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Typhus Corrosion",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189956010_technicalTyphusCorrosion.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      55,
+      58,
+      34
+    ],
+    "hex_color": "#373a22"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Nurgles Rot",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189956009_technicalNurglesRot.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      157,
+      139,
+      22
+    ],
+    "hex_color": "#9d8b16"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Nihilakh Oxide",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189956006_technicalNihilakhOxide.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      102,
+      179,
+      154
+    ],
+    "hex_color": "#66b39a"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Spiritstone Red",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189956015_technicalSpiritstoneRed.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      150,
+      64,
+      50
+    ],
+    "hex_color": "#964032"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Soulstone Blue",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189956016_technicalSoulstoneBlue.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      51,
+      67,
+      110
+    ],
+    "hex_color": "#33436e"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Zamesi Desert",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951044_layerZamesiDesert.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      216,
+      157,
+      27
+    ],
+    "hex_color": "#d89d1b"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Yriel Yellow",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951001_layerYrielYellow.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      255,
+      217,
+      0
+    ],
+    "hex_color": "#ffd900"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Xereus Purple",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951009_layerXereusPurple.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      71,
+      18,
+      90
+    ],
+    "hex_color": "#47125a"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Wild Rider Red",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951006_layerWildRiderRed.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      232,
+      46,
+      27
+    ],
+    "hex_color": "#e82e1b"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "White Scar",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951057_layerWhiteScar.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      255,
+      255,
+      255
+    ],
+    "hex_color": "#ffffff"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Wazdakka Red",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951007_layerWazdakkaRed.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      136,
+      8,
+      4
+    ],
+    "hex_color": "#880804"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Warpstone Glow",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951023_layerWarpstoneGlow.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      15,
+      112,
+      42
+    ],
+    "hex_color": "#0f702a"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Warpfiend Grey",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951011_layerWarpfiendGrey.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      102,
+      101,
+      110
+    ],
+    "hex_color": "#66656e"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Warboss Green",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951025_layerWarbossGreen.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      49,
+      126,
+      87
+    ],
+    "hex_color": "#317e57"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Ushabti Bone",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951032_layerUshabtiBone.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      171,
+      161,
+      115
+    ],
+    "hex_color": "#aba173"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Ungor Flesh",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951039_layerUngorFlesh.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      209,
+      165,
+      96
+    ],
+    "hex_color": "#d1a560"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Ulthuan Grey",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951056_layerUlthuanGrey.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      196,
+      221,
+      213
+    ],
+    "hex_color": "#c4ddd5"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Tuskgor Fur",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951046_layerTuskgorFur.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      134,
+      50,
+      49
+    ],
+    "hex_color": "#863231"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Troll Slayer Orange",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951003_layerTrollSlayerOrange.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      241,
+      108,
+      35
+    ],
+    "hex_color": "#f16c23"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Thunderhawk Blue",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951053_layerThunderhawkBlue.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      57,
+      106,
+      112
+    ],
+    "hex_color": "#396a70"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Temple Guard Blue",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951020_layerTempleGuardBlue.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      35,
+      148,
+      137
+    ],
+    "hex_color": "#239489"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Teclis Blue",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951017_layerTeclisBlue.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      56,
+      119,
+      191
+    ],
+    "hex_color": "#3877bf"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Tau Light Ochre",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951042_layerTauLightOchre.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      188,
+      107,
+      16
+    ],
+    "hex_color": "#bc6b10"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Tallarn Sand",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951034_layerTallarnSand.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      160,
+      116,
+      9
+    ],
+    "hex_color": "#a07409"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Sycorax Bronze",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951064_layerSycoraxBronze.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      252,
+      251,
+      250
+    ],
+    "hex_color": "#fcfbfa"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Sybarite Green",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951022_layerSybariteGreen.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      23,
+      161,
+      102
+    ],
+    "hex_color": "#17a166"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Straken Green",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951028_layerStrakenGreen.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      89,
+      127,
+      28
+    ],
+    "hex_color": "#597f1c"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Stormvermin Fur",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951055_layerStormverminFur.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      109,
+      101,
+      95
+    ],
+    "hex_color": "#6d655f"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Stormhost Silver",
+    "price": "$6.10",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951083_layerStormhostSilver.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      249,
+      249,
+      249
+    ],
+    "hex_color": "#f9f9f9"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Squig Orange",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951008_layerSquigOrange.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      167,
+      77,
+      66
+    ],
+    "hex_color": "#a74d42"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Sotek Green",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951019_layerSotekGreen.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      11,
+      99,
+      113
+    ],
+    "hex_color": "#0b6371"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Slaanesh Grey",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951012_layerSlaaneshGrey.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      139,
+      136,
+      147
+    ],
+    "hex_color": "#8b8893"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Skullcrusher Brass",
+    "price": "$6.10",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951081_layerSkullcrusherBrass.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      255,
+      253,
+      250
+    ],
+    "hex_color": "#fffdfa"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Skrag Brown",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951040_layerSkragBrown.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      139,
+      72,
+      6
+    ],
+    "hex_color": "#8b4806"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Skavenblight Dinge",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951054_layerSkavenblightDinge.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      69,
+      65,
+      59
+    ],
+    "hex_color": "#45413b"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Skarsnik Green",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951026_layerSkarsnikGreen.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      88,
+      143,
+      107
+    ],
+    "hex_color": "#588f6b"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Screaming Skull",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951033_layerScreamingSkull.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      185,
+      192,
+      153
+    ],
+    "hex_color": "#b9c099"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Russ Grey",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951067_layerRussGrey.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      80,
+      112,
+      133
+    ],
+    "hex_color": "#507085"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Runefang Steel",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951060_layerRunefangSteel.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      241,
+      241,
+      241
+    ],
+    "hex_color": "#f1f1f1"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Pink Horror",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951069_layerPinkHorror.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      142,
+      39,
+      87
+    ],
+    "hex_color": "#8e2757"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Pallid Wych Flesh",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951058_layerPallidWychFlesh.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      202,
+      204,
+      187
+    ],
+    "hex_color": "#caccbb"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Ogryn Camo",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951031_layerOgrynCamo.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      150,
+      166,
+      72
+    ],
+    "hex_color": "#96a648"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Nurgling Green",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951029_layerNurglingGreen.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      126,
+      151,
+      94
+    ],
+    "hex_color": "#7e975e"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Moot Green",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951024_layerMootGreen.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      61,
+      175,
+      68
+    ],
+    "hex_color": "#3daf44"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Lothern Blue",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951018_layerLothernBlue.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      44,
+      155,
+      204
+    ],
+    "hex_color": "#2c9bcc"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Loren Forest",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951027_layerLorenForest.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      72,
+      108,
+      37
+    ],
+    "hex_color": "#486c25"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Liberator Gold",
+    "price": "$6.10",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951073_layerLiberatorGold.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      254,
+      252,
+      250
+    ],
+    "hex_color": "#fefcfa"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Kislev Flesh",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951037_layerKislevFlesh.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      209,
+      165,
+      112
+    ],
+    "hex_color": "#d1a570"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Karak Stone",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951035_layerKarakStone.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      183,
+      148,
+      92
+    ],
+    "hex_color": "#b7945c"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Kabalite Green",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951021_layerKabaliteGreen.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      0,
+      137,
+      98
+    ],
+    "hex_color": "#008962"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Ironbreaker",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951059_layerIronbreaker.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      240,
+      240,
+      240
+    ],
+    "hex_color": "#f0f0f0"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Hoeth Blue",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951014_layerHoethBlue.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      76,
+      120,
+      175
+    ],
+    "hex_color": "#4c78af"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Gorthor Brown",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951047_layerGorthorBrown.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      95,
+      70,
+      63
+    ],
+    "hex_color": "#5f463f"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Genestealer Purple",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951010_layerGenestealerPurple.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      118,
+      88,
+      165
+    ],
+    "hex_color": "#7658a5"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Gehenna's Gold",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951061_layerGehennasGold.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      253,
+      206,
+      50
+    ],
+    "hex_color": "#fdce32"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Hashut Copper",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951116_layerHashutCopper.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      252,
+      205,
+      136
+    ],
+    "hex_color": "#fccd88"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Flash Gitz Yellow",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951002_layerFlashGitzYellow.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      255,
+      243,
+      0
+    ],
+    "hex_color": "#fff300"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Fire Dragon Bright",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951004_layerFireDragonBright.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      244,
+      135,
+      78
+    ],
+    "hex_color": "#f4874e"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Fenrisian Grey",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951068_layerFenrisianGrey.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      109,
+      148,
+      179
+    ],
+    "hex_color": "#6d94b3"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Evil Sunz Scarlet",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951005_layerEvilSunzScarlet.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      192,
+      20,
+      17
+    ],
+    "hex_color": "#c01411"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Eshin Grey",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951051_layerEshinGrey.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      72,
+      75,
+      78
+    ],
+    "hex_color": "#484b4e"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Emperor's Children",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951070_layerEmperorsChildren.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      183,
+      64,
+      115
+    ],
+    "hex_color": "#b74073"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Elysian Green",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951030_layerElysianGreen.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      107,
+      140,
+      55
+    ],
+    "hex_color": "#6b8c37"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Doombull Brown",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951045_layerDoombullBrown.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      87,
+      0,
+      3
+    ],
+    "hex_color": "#570003"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Deepkin Flesh",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951101_layerDeepkinFlesh.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      169,
+      183,
+      159
+    ],
+    "hex_color": "#a9b79f"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Deathclaw Brown",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951041_layerDeathclawBrown.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      175,
+      99,
+      79
+    ],
+    "hex_color": "#af634f"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Dawnstone",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951049_layerDawnstone.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      105,
+      112,
+      104
+    ],
+    "hex_color": "#697068"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Dark Reaper",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951052_layerDarkReaper.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      53,
+      77,
+      76
+    ],
+    "hex_color": "#354d4c"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Calgar Blue",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951016_layerCalgarBlue.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      42,
+      73,
+      127
+    ],
+    "hex_color": "#2a497f"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Cadian Fleshtone",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951036_layerCadianFleshtone.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      196,
+      118,
+      82
+    ],
+    "hex_color": "#c47652"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Brass Scorpion",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951065_layerBrassScorpion.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      251,
+      190,
+      100
+    ],
+    "hex_color": "#fbbe64"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Bestigor Flesh",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951038_layerBestigorFlesh.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      208,
+      137,
+      81
+    ],
+    "hex_color": "#d08951"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Baneblade Brown",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951048_layerBanebladeBrown.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      143,
+      124,
+      104
+    ],
+    "hex_color": "#8f7c68"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Balor Brown",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951043_layerBalorBrown.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      135,
+      84,
+      8
+    ],
+    "hex_color": "#875408"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Auric Armour Gold",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951062_layerAuricArmourGold.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      255,
+      241,
+      194
+    ],
+    "hex_color": "#fff1c2"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Altdorf Guard Blue",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951015_layerAltdorfGuardBlue.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      45,
+      70,
+      150
+    ],
+    "hex_color": "#2d4696"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Alaitoc Blue",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951013_layerAlaitocBlue.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      47,
+      79,
+      133
+    ],
+    "hex_color": "#2f4f85"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Ahriman Blue",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951084_layerAhrimanBlue.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      0,
+      112,
+      138
+    ],
+    "hex_color": "#00708a"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Administratum Grey",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189952029_layerAdministratumGrey.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      152,
+      156,
+      148
+    ],
+    "hex_color": "#989c94"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Fulgurite Copper",
+    "price": "$6.10",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951082_layerFulguriteCopper.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      230,
+      214,
+      200
+    ],
+    "hex_color": "#e6d6c8"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Flayed One Flesh",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951074_layerFlayedOneFlesh.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      238,
+      196,
+      131
+    ],
+    "hex_color": "#eec483"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Zandri Dust",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950016_baseZandriDust.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      152,
+      142,
+      86
+    ],
+    "hex_color": "#988e56"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "XV-88",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950021_baseXV88.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      108,
+      72,
+      17
+    ],
+    "hex_color": "#6c4811"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Warplock Bronze",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950031_baseWarplockBronze.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      239,
+      191,
+      164
+    ],
+    "hex_color": "#efbfa4"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Waaagh! Flesh",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950013_baseWaaaghFlesh.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      11,
+      59,
+      54
+    ],
+    "hex_color": "#0b3b36"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Thousand Sons Blue",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950071_baseThousandSonsBlue.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      0,
+      80,
+      111
+    ],
+    "hex_color": "#00506f"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "The Fang",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950032_baseTheFang.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      64,
+      91,
+      113
+    ],
+    "hex_color": "#405b71"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Stegadon Scale Green",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950010_baseStegadonScaleGreen.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      6,
+      69,
+      93
+    ],
+    "hex_color": "#06455d"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Steel Legion Drab",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950017_baseSteelLegionDrab.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      88,
+      78,
+      45
+    ],
+    "hex_color": "#584e2d"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Screaming Bell",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950030_baseScreamingBell.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      246,
+      226,
+      182
+    ],
+    "hex_color": "#f6e2b6"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Screamer Pink",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950033_baseScreamerPink.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      122,
+      14,
+      68
+    ],
+    "hex_color": "#7a0e44"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Rhinox Hide",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950022_baseRhinoxHide.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      70,
+      47,
+      48
+    ],
+    "hex_color": "#462f30"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Retributor Armour",
+    "price": "$6.10",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950039_baseRetributorArmour.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      254,
+      252,
+      249
+    ],
+    "hex_color": "#fefcf9"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Ratskin Flesh",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950019_baseRatskinFlesh.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      168,
+      102,
+      72
+    ],
+    "hex_color": "#a86648"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Rakarth Flesh",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950027_baseRakarthFlesh.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      156,
+      153,
+      141
+    ],
+    "hex_color": "#9c998d"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Naggaroth Night",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950005_baseNaggarothNight.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      59,
+      43,
+      80
+    ],
+    "hex_color": "#3b2b50"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Mournfang Brown",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950020_baseMournfangBrown.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      73,
+      15,
+      6
+    ],
+    "hex_color": "#490f06"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Mephiston Red",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950003_baseMephistonRed.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      150,
+      12,
+      9
+    ],
+    "hex_color": "#960c09"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Mechanicus Standard Grey",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950024_baseMechanicusStandardGrey.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      57,
+      72,
+      74
+    ],
+    "hex_color": "#39484a"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Macragge Blue",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950008_baseMacraggeBlue.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      15,
+      61,
+      124
+    ],
+    "hex_color": "#0f3d7c"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Leadbelcher",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950028_baseLeadbelcher.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      236,
+      236,
+      236
+    ],
+    "hex_color": "#ececec"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Khorne Red",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950004_baseKhorneRed.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      101,
+      0,
+      1
+    ],
+    "hex_color": "#650001"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Kantor Blue",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950007_baseKantorBlue.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      2,
+      19,
+      78
+    ],
+    "hex_color": "#02134e"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Jokaero Orange",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950002_baseJokaeroOrange.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      237,
+      56,
+      20
+    ],
+    "hex_color": "#ed3814"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Ionrach Skin",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950082_baseIonrachSkin.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      151,
+      163,
+      132
+    ],
+    "hex_color": "#97a384"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Incubi Darkness",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950011_baseIncubiDarkness.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      8,
+      46,
+      50
+    ],
+    "hex_color": "#082e32"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Dryad Bark",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950023_baseDryadBark.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      43,
+      42,
+      36
+    ],
+    "hex_color": "#2b2a24"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Deathworld Forest",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950015_baseDeathworldForest.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      85,
+      98,
+      41
+    ],
+    "hex_color": "#556229"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Daemonette Hide",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950006_baseDaemonetteHide.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      101,
+      95,
+      129
+    ],
+    "hex_color": "#655f81"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Celestra Grey",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950026_baseCelestraGrey.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      139,
+      163,
+      163
+    ],
+    "hex_color": "#8ba3a3"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Castellan Green",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950014_baseCastellanGreen.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      38,
+      71,
+      21
+    ],
+    "hex_color": "#264715"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Caliban Green",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950012_baseCalibanGreen.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      0,
+      61,
+      21
+    ],
+    "hex_color": "#003d15"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Caledor Sky",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950009_baseCaledorSky.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      54,
+      102,
+      153
+    ],
+    "hex_color": "#366699"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Bugman's Glow",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950018_baseBugmansGlow.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      128,
+      76,
+      67
+    ],
+    "hex_color": "#804c43"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Averland Sunset",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950001_baseAverlandSunset.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      251,
+      184,
+      28
+    ],
+    "hex_color": "#fbb81c"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Abaddon Black",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950025_baseAbaddonBlack.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      0,
+      0,
+      0
+    ],
+    "hex_color": "#000000"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Macragge Blue",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958057_airMacraggeBlue.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      15,
+      61,
+      124
+    ],
+    "hex_color": "#0f3d7c"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Terradon Turquoise",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960034_contrastTerradonTurquoise.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      0,
+      106,
+      121
+    ],
+    "hex_color": "#006a79"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Plaguebearer Flesh",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960033_contrastPlaguebearerFlesh.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      143,
+      156,
+      81
+    ],
+    "hex_color": "#8f9c51"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Aethermatic Blue",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960032_contrastAethermaticBlue.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      64,
+      148,
+      165
+    ],
+    "hex_color": "#4094a5"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Warp Lightning",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960031_contrastWarpLightning.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      0,
+      113,
+      52
+    ],
+    "hex_color": "#007134"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Talassar Blue",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960030_contrastTalassarBlue.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      0,
+      79,
+      140
+    ],
+    "hex_color": "#004f8c"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Black Templar",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960029_contrastBlackTemplar.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      52,
+      52,
+      51
+    ],
+    "hex_color": "#343433"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Basilicanum Grey",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960028_contrastBasilicanumGrey.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      75,
+      75,
+      74
+    ],
+    "hex_color": "#4b4b4a"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Space Wolves Grey",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960027_contrastSpaceWolvesGrey.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      70,
+      107,
+      139
+    ],
+    "hex_color": "#466b8b"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Gryph-Charger Grey",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960026_contrastGryphChargerGrey.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      83,
+      138,
+      166
+    ],
+    "hex_color": "#538aa6"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Apothecary White",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960025_contrastApothecaryWhite.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      194,
+      211,
+      227
+    ],
+    "hex_color": "#c2d3e3"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Darkoath Flesh",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960024_contrastDarkoathFlesh.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      175,
+      117,
+      106
+    ],
+    "hex_color": "#af756a"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Guilliman Flesh",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960023_contrastGuillimanFlesh.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      176,
+      102,
+      89
+    ],
+    "hex_color": "#b06659"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Fyreslayer Flesh",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960022_contrastFyreslayerFlesh.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      140,
+      92,
+      75
+    ],
+    "hex_color": "#8c5c4b"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Wyldwood",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960021_contrastWyldwood.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      81,
+      54,
+      49
+    ],
+    "hex_color": "#513631"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Cygor Brown",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960020_contrastCygorBrown.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      81,
+      43,
+      40
+    ],
+    "hex_color": "#512b28"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Gore-Grunta Fur",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960019_contrastGoreGruntaFur.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      113,
+      60,
+      20
+    ],
+    "hex_color": "#713c14"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Snakebite Leather",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960018_contrastSnakebiteLeather.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      131,
+      87,
+      31
+    ],
+    "hex_color": "#83571f"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Skeleton Horde",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960017_contrastSkeletonHorde.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      189,
+      177,
+      140
+    ],
+    "hex_color": "#bdb18c"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Aggaros Dunes",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960016_contrastAggarosDunes.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      145,
+      132,
+      81
+    ],
+    "hex_color": "#918451"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Militarum Green",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960015_contrastMilitarumGreen.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      123,
+      132,
+      38
+    ],
+    "hex_color": "#7b8426"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Creed Camo",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960014_contrastCreedCamo.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      46,
+      111,
+      70
+    ],
+    "hex_color": "#2e6f46"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Ork Flesh",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960013_contrastOrkFlesh.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      0,
+      104,
+      35
+    ],
+    "hex_color": "#006823"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Nazdreg Yellow",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960012_contrastNazdregYellow.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      146,
+      104,
+      0
+    ],
+    "hex_color": "#926800"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Dark Angels Green",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960011_contrastDarkAngelsGreen.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      0,
+      38,
+      34
+    ],
+    "hex_color": "#002622"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Akhelian Green",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960010_contrastAkhelianGreen.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      0,
+      94,
+      119
+    ],
+    "hex_color": "#005e77"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Ultramarines Blue",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960009_contrastUltramarineBlue.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      20,
+      44,
+      94
+    ],
+    "hex_color": "#142c5e"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Leviadon Blue",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960008_contrastLeviadonBlue.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      0,
+      22,
+      44
+    ],
+    "hex_color": "#00162c"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Magos Purple",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960007_contrastMagosPurple.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      147,
+      100,
+      140
+    ],
+    "hex_color": "#93648c"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Shyish Purple",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960006_contrastShyishPurple.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      58,
+      31,
+      80
+    ],
+    "hex_color": "#3a1f50"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Volupus Pink",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960005_contrastVolupusPink.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      112,
+      1,
+      42
+    ],
+    "hex_color": "#70012a"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Flesh Tearers Red",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960004_contrastFleshTearersRed.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      96,
+      7,
+      5
+    ],
+    "hex_color": "#600705"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Blood Angels Red",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960003_contrastBloodAngelsRed.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      155,
+      14,
+      18
+    ],
+    "hex_color": "#9b0e12"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Gryph-Hound Orange",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960002_contrastGryphHoundOrange.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      177,
+      65,
+      27
+    ],
+    "hex_color": "#b1411b"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Iyanden Yellow",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189960001_contrastIyandenYellow.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      230,
+      153,
+      21
+    ],
+    "hex_color": "#e69915"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Grey Knights Steel",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958129_airGreyKnightsSteel.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      252,
+      252,
+      253
+    ],
+    "hex_color": "#fcfcfd"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Phalanx Yellow",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958120_airPhalanxYellow.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      255,
+      226,
+      0
+    ],
+    "hex_color": "#ffe200"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Typhon Ash",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958118_airTyphonAsh.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      228,
+      216,
+      193
+    ],
+    "hex_color": "#e4d8c1"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Corvus Black",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958116_airCorvusBlack.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      23,
+      19,
+      20
+    ],
+    "hex_color": "#171314"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Night Lords Blue",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958113_airNightLordsBlue.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      0,
+      43,
+      92
+    ],
+    "hex_color": "#002b5c"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Mortarion Green Clear",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958109_airMortarionGreenClear.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      0,
+      131,
+      43
+    ],
+    "hex_color": "#00832b"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Eidolon Purple Clear",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958108_airEidolonPurpleClear.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      125,
+      77,
+      153
+    ],
+    "hex_color": "#7d4d99"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Calth Blue Clear",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958106_airCalthBlueClear.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      0,
+      135,
+      209
+    ],
+    "hex_color": "#0087d1"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Angron Red Clear",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958105_airAngronRedClear.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      226,
+      24,
+      35
+    ],
+    "hex_color": "#e21823"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Fenrisian Grey",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958103_airFenrisianGrey.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      109,
+      148,
+      179
+    ],
+    "hex_color": "#6d94b3"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Russ Grey",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958102_airRussGrey.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      80,
+      112,
+      133
+    ],
+    "hex_color": "#507085"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Ulthuan Grey",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958097_airUlthuanGrey.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      196,
+      221,
+      213
+    ],
+    "hex_color": "#c4ddd5"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Administratum Grey",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958096_airAdministratumGrey.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      143,
+      150,
+      144
+    ],
+    "hex_color": "#8f9690"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Dawnstone",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958095_airDawnstone.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      105,
+      112,
+      104
+    ],
+    "hex_color": "#697068"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Baneblade Brown",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958094_airBanebladeBrown.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      143,
+      124,
+      104
+    ],
+    "hex_color": "#8f7c68"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Kislev Flesh",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958089_airKislevFlesh.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      209,
+      165,
+      112
+    ],
+    "hex_color": "#d1a570"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Tallarn Sand",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958087_airTallarnSand.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      160,
+      116,
+      9
+    ],
+    "hex_color": "#a07409"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Ushabti Bone",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958085_airUshabtiBone.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      171,
+      161,
+      115
+    ],
+    "hex_color": "#aba173"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Ogryn Camo",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958084_airOgrynCamo.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      150,
+      166,
+      72
+    ],
+    "hex_color": "#96a648"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Elysian Green",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958083_airElysianGreen.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      107,
+      140,
+      55
+    ],
+    "hex_color": "#6b8c37"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Moot Green",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958080_airMootGreen.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      61,
+      175,
+      68
+    ],
+    "hex_color": "#3daf44"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Temple Guard Blue",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958078_airTempleGuardBlue.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      35,
+      148,
+      137
+    ],
+    "hex_color": "#239489"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Lothern Blue",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958077_airLothernBlue.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      44,
+      155,
+      204
+    ],
+    "hex_color": "#2c9bcc"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Evil Sunz Scarlet",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958074_airEvilSunzScarlet.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      192,
+      20,
+      17
+    ],
+    "hex_color": "#c01411"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Troll Slayer Orange",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958073_airTrollSlayerOrange.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      241,
+      108,
+      35
+    ],
+    "hex_color": "#f16c23"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Flash Gitz Yellow",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958072_airFlashGitzYellow.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      255,
+      243,
+      0
+    ],
+    "hex_color": "#fff300"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "The Fang",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958071_airTheFang.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      64,
+      91,
+      113
+    ],
+    "hex_color": "#405b71"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Balthasar Gold",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958069_airBalthasarGold.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      251,
+      191,
+      136
+    ],
+    "hex_color": "#fbbf88"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Mechanicus Standard Grey",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958066_airMechanicusStandardGrey.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      57,
+      72,
+      74
+    ],
+    "hex_color": "#39484a"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Mournfang Brown",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958063_airMournfangBrown.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      73,
+      15,
+      6
+    ],
+    "hex_color": "#490f06"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Zandri Dust",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958062_airZandriDust.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      152,
+      142,
+      86
+    ],
+    "hex_color": "#988e56"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Deathworld Forest",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958061_airDeathworldForest.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      85,
+      98,
+      41
+    ],
+    "hex_color": "#556229"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Castellan Green",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958060_airCastellanGreen.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      38,
+      71,
+      21
+    ],
+    "hex_color": "#264715"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Caliban Green",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958059_airCalibanGreen.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      0,
+      61,
+      21
+    ],
+    "hex_color": "#003d15"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Kantor Blue",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958056_airKantorBlue.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      2,
+      19,
+      78
+    ],
+    "hex_color": "#02134e"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Stormshield",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189956052_technicalStormShield.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      255,
+      255,
+      255
+    ],
+    "hex_color": "#ffffff"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Contrast Medium",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189956051_technicalContrastMedium.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      255,
+      255,
+      255
+    ],
+    "hex_color": "#ffffff"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Lahmian Medium",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189956049_technicalLahmianMedium.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      255,
+      255,
+      255
+    ],
+    "hex_color": "#ffffff"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Valhallan Blizzard",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189956048_technicalValhallanBlizzard.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      225,
+      225,
+      225
+    ],
+    "hex_color": "#e1e1e1"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Astrogranite",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189956046_technicalAstrogranite.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      118,
+      118,
+      117
+    ],
+    "hex_color": "#767675"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Armageddon Dust",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189956044_technicalArmageddonDust.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      210,
+      173,
+      0
+    ],
+    "hex_color": "#d2ad00"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Stirland Mud",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189956042_technicalStirlandMud.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      72,
+      43,
+      0
+    ],
+    "hex_color": "#482b00"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Martian Ironcrust",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189956041_technicalMartianIroncrust.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      207,
+      112,
+      93
+    ],
+    "hex_color": "#cf705d"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Martian Ironearth",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189956040_technicalMartianIronearth.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      196,
+      106,
+      88
+    ],
+    "hex_color": "#c46a58"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Agrellan Badland",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189956039_technicalAgrellanBadland.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      179,
+      158,
+      128
+    ],
+    "hex_color": "#b39e80"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Agrellan Earth",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189956038_technicalAgrellanEarth.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      173,
+      152,
+      123
+    ],
+    "hex_color": "#ad987b"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Mordant Earth",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189956037_technicalMordantEarth.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      33,
+      29,
+      30
+    ],
+    "hex_color": "#211d1e"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Knight-Questor Flesh",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951195_layerKnightQuestorFlesh.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      153,
+      101,
+      99
+    ],
+    "hex_color": "#996563"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Bloodreaver Flesh",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951194_layerBloodreaverFlesh.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      106,
+      72,
+      72
+    ],
+    "hex_color": "#6a4848"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Word Bearers Red",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951115_layerWordBearersRed.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      98,
+      1,
+      4
+    ],
+    "hex_color": "#620104"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Vulkan Green",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951114_layerVulkanGreen.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      34,
+      60,
+      46
+    ],
+    "hex_color": "#223c2e"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Castellax Bronze",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951113_layerCastellaxBronze.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      250,
+      231,
+      206
+    ],
+    "hex_color": "#fae7ce"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Phalanx Yellow",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951112_layerPhalanxYellow.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      255,
+      226,
+      0
+    ],
+    "hex_color": "#ffe200"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Sons of Horus Green",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951111_layerSonsOfHorusGreen.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      0,
+      84,
+      94
+    ],
+    "hex_color": "#00545e"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Kakophoni Purple",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951110_layerKakophoniPurple.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      136,
+      105,
+      174
+    ],
+    "hex_color": "#8869ae"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Lugganath Orange",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951109_layerLugganathOrange.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      246,
+      155,
+      130
+    ],
+    "hex_color": "#f69b82"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Blue Horror",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951108_layerBlueHorror.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      158,
+      181,
+      206
+    ],
+    "hex_color": "#9eb5ce"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Krieg Khaki",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951107_layerKriegKhaki.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      188,
+      187,
+      126
+    ],
+    "hex_color": "#bcbb7e"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Dechala Lilac",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951106_layerDechalaLilac.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      181,
+      152,
+      201
+    ],
+    "hex_color": "#b598c9"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Fulgrim Pink",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951105_layerFulgrimPink.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      243,
+      171,
+      202
+    ],
+    "hex_color": "#f3abca"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Dorn Yellow",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951104_layerDornYellow.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      255,
+      245,
+      90
+    ],
+    "hex_color": "#fff55a"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Baharroth Blue",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951103_layerBaharrothBlue.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      84,
+      189,
+      202
+    ],
+    "hex_color": "#54bdca"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Gauss Blaster Green",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189951102_layerGaussBlasterGreen.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      127,
+      193,
+      165
+    ],
+    "hex_color": "#7fc1a5"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Grey Seer",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950174_baseGreySeer.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      162,
+      165,
+      167
+    ],
+    "hex_color": "#a2a5a7"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Wraithbone",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950173_baseWraithBone.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      219,
+      209,
+      178
+    ],
+    "hex_color": "#dbd1b2"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Corax White",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950172_baseCoraxWhite.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      255,
+      255,
+      255
+    ],
+    "hex_color": "#ffffff"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Morghast Bone",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950171_baseMorghastBone.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      192,
+      169,
+      115
+    ],
+    "hex_color": "#c0a973"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Catachan Flesh",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950170_baseCatachanFleshtone.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      68,
+      43,
+      37
+    ],
+    "hex_color": "#442b25"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Barak-Nar Burgundy",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950169_baseBarakNarBurgundy.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      69,
+      22,
+      54
+    ],
+    "hex_color": "#451636"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Iron Warriors",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950168_baseIronWarriors.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      206,
+      206,
+      206
+    ],
+    "hex_color": "#cecece"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Grey Knights Steel",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950129_baseGreyKnightsSteel.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      252,
+      252,
+      253
+    ],
+    "hex_color": "#fcfcfd"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Iron Hands Steel",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950128_baseIronHandsSteel.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      236,
+      234,
+      230
+    ],
+    "hex_color": "#eceae6"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Lupercal Green",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950127_baseLupercalGreen.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      0,
+      44,
+      43
+    ],
+    "hex_color": "#002c2b"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Corvus Black",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950126_baseCorvusBlack.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      23,
+      19,
+      20
+    ],
+    "hex_color": "#171314"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Nocturne Green",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950125_baseNocturneGreen.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      22,
+      42,
+      41
+    ],
+    "hex_color": "#162a29"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Night Lords Blue",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950124_baseNightLordsBlue.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      0,
+      43,
+      92
+    ],
+    "hex_color": "#002b5c"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Death Korps Drab",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950122_baseDeathKorpsDrab.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      61,
+      69,
+      57
+    ],
+    "hex_color": "#3d4539"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Phoenician Purple",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950121_basePhoenicianPurple.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      68,
+      0,
+      82
+    ],
+    "hex_color": "#440052"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Ryza Rust",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189952018_dryRyzaRust.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      241,
+      108,
+      35
+    ],
+    "hex_color": "#f16c23"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Praxeti White",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189952004_dryPraxetiWhite.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      255,
+      255,
+      255
+    ],
+    "hex_color": "#ffffff"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Longbeard Grey",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189952012_dryLongbeardGrey.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      219,
+      220,
+      198
+    ],
+    "hex_color": "#dbdcc6"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Imrik Blue",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189952024_dryImrikBlue.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      32,
+      138,
+      191
+    ],
+    "hex_color": "#208abf"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Hexos Palesun",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189952001_dryHexosPalesun.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      255,
+      245,
+      90
+    ],
+    "hex_color": "#fff55a"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Astorath Red",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189952021_dryAstorathRed.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      169,
+      49,
+      30
+    ],
+    "hex_color": "#a9311e"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Thallax Gold",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958130_airThallaxGold.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      254,
+      228,
+      149
+    ],
+    "hex_color": "#fee495"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Valdor Gold",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958127_airValdorGold.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      230,
+      214,
+      200
+    ],
+    "hex_color": "#e6d6c8"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Phoenician Purple",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958110_airPhoenicianPurple.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      68,
+      0,
+      82
+    ],
+    "hex_color": "#440052"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Runefang Steel",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958100_airRunefangSteel.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      241,
+      241,
+      241
+    ],
+    "hex_color": "#f1f1f1"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "White Scar",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958098_airWhiteScar.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      255,
+      255,
+      255
+    ],
+    "hex_color": "#ffffff"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Air Caste Thinner",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958086_airAirCasteThinner.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      255,
+      255,
+      255
+    ],
+    "hex_color": "#ffffff"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Leadbelcher",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958068_airLeadbelcher.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      236,
+      236,
+      236
+    ],
+    "hex_color": "#ececec"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Abaddon Black",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958067_airAbaddonBlack.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      0,
+      0,
+      0
+    ],
+    "hex_color": "#000000"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Khorne Red",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958055_airKhorneRed.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      101,
+      0,
+      1
+    ],
+    "hex_color": "#650001"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Mephiston Red",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958054_airMephistonRed.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      150,
+      12,
+      9
+    ],
+    "hex_color": "#960c09"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Averland Sunset",
+    "price": "$7.80",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189958053_airAverlandSunset.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      251,
+      184,
+      28
+    ],
+    "hex_color": "#fbb81c"
+  },
+  {
+    "manufacturer": "Citadel",
+    "name": "Gal Vorbak Red",
+    "price": "$4.55",
+    "image_url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99189950123_baseGalVorbakRed.svg?fm=webp&w=320&h=330",
+    "rgb_color": [
+      75,
+      33,
+      60
+    ],
+    "hex_color": "#4b213c"
+  }
+]
